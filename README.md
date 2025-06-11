@@ -1,16 +1,10 @@
 # Insurance Website
-##### By Samuel Odhiambo 
-### Insurance Website Documentation.
-
-**<a href="https://samuelodhiambo.github.io/InsuranceWebsite/">Insurance Website</a>**
 
 ## Table of Content
 
 + [Description](#description)
-+ [Installation Requirement](#Installation)
 + [Technology Used](#technology-used)
 + [Licence](#licence)
-+ [Authors Info](#author-Info)
 
 ## Description
 <p>This is the landing page for the Insurance website made in pure html and css.</p>
@@ -34,7 +28,7 @@
 
 ## Licence
 
-Copyright &copy; [2022] [Samuel Odhiambo]
+Copyright &copy; [2025] [Afeez Kareem]
 
 This project is free for use for educational purpose only. Permission is therefore granted for use, modify in any way. You need to contact the author if you wish to use it for production.
 
@@ -46,13 +40,5 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-
-## Authors Info
-
-Website - [Samuel Ian](https://sites.google.com/view/samwelian3/contact-me)
-
-Slack Profile - [Samuel Odhiambo](https://moringaclassroom.slack.com/team/U02TPNM66TG)
-
-Linked - [Samuel Odhiambo](https://www.linkedin.com/in/osamwelian3/)
 
 [Go Back to the top](#Insurance%20Website)
